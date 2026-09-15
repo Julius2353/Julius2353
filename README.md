@@ -1,4 +1,4 @@
-# Hi, I'm Julius 👋
+# Hi, I'm Julius
 
 ### BSc Information Technology Graduate | Software Development | Python | Flutter
 
@@ -6,7 +6,7 @@ I'm an Information Technology graduate passionate about building practical softw
 
 I enjoy turning ideas into working applications, exploring software development, and continuously improving my technical skills.
 
-## 🚀 What I Build
+## What I Build
 
 * Web and mobile applications
 * Python-based tools and automation
@@ -15,31 +15,37 @@ I enjoy turning ideas into working applications, exploring software development,
 * Data and AI-related projects
 * Practical software solutions
 
-## 🛠️ Technologies & Tools
+## Services I Offer
 
-**Languages:** Python • C++ • PHP • JavaScript • Dart
+* **Python Automation** — Build Python scripts that automate data processing and generate structured reports and summaries.
+* **Mobile & Web Applications** — Develop database-backed applications using Flutter, Dart, and Firebase.
+* **Database-Driven Systems** — Build applications that store, retrieve, and manage structured organizational information.
 
-**Frameworks:** Flutter • Django • Laravel
+## Technologies & Tools
 
-**Databases & Cloud:** Firebase • Firestore
+**Languages:** Python, C++, PHP, JavaScript, Dart
 
-**Tools:** Git • GitHub • Android Studio • Visual Studio Code
+**Frameworks:** Flutter, Django, Laravel
 
-## 📌 Current Projects
+**Databases & Cloud:** Firebase, Firestore
+
+**Tools:** Git, GitHub, Android Studio, Visual Studio Code
+
+## Current Projects
 
 ### SMP Tracker
 
 A Python-based daily performance tracker developed as part of my AI and software development training.
 
-**Technologies:** Python • Git • GitHub
+**Technologies:** Python, Git, GitHub
 
 ### DeKUT Medical System
 
 A healthcare management application designed to support appointments, medical records, laboratory results, and role-based access.
 
-**Technologies:** Flutter • Firebase • Firestore • Cloud Functions
+**Technologies:** Flutter, Firebase, Firestore, Cloud Functions
 
-## 🎯 Currently Learning
+## Currently Learning
 
 * Artificial Intelligence and Machine Learning
 * Python development
@@ -48,14 +54,12 @@ A healthcare management application designed to support appointments, medical re
 * Cloud technologies
 * Software engineering practices
 
-## 📈 My Development Journey
+## My Development Journey
 
 I believe in learning by building. I use practical projects to strengthen my programming skills, understand software development workflows, and create solutions to real-world problems.
 
-## 📫 Connect With Me
+## Connect With Me
 
-* GitHub: [@Julius2353](https://github.com/Julius2353)
+* GitHub: @Julius2353
 
 ---
-
-⭐ Thanks for visiting my profile!
